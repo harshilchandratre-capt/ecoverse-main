@@ -46,7 +46,7 @@ export default function Footer() {
 
         <div className="mt-8 pt-8 border-t border-gray-700 text-center">
           <p className="text-sm text-gray-400">
-            &copy; {new Date().getFullYear()} Premium Bottle Caps. All rights reserved. Built with 💚 by <i className="ri-instagram-line"><a href="https://www.instagram.com/harshilchandratre" className="text-brand-[#E0E0E0]">harshilchandratre</a></i>
+            &copy; {new Date().getFullYear()} Ecoversal Plast Pvt. Ltd. All rights reserved. Built with 💚 by <i className="ri-instagram-line"><a href="https://www.instagram.com/harshilchandratre" className="text-brand-[#E0E0E0]">harshilchandratre</a></i>
           </p>
         </div>
       </div>

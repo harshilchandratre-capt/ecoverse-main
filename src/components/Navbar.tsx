@@ -11,7 +11,7 @@ export default function Navbar() {
           <Link to="/" className="flex items-center space-x-2">
             <Package className="w-8 h-8 text-brand-green" />
             <span className="text-xl font-semibold text-brand-dark-gray">
-              Ecoverse
+              Ecoversal
             </span>
           </Link>
 
